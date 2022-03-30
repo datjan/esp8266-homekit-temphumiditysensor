@@ -17,6 +17,7 @@ D1 mini -> DHT11/DHT22
 D2 -> D
 GND -> GND
 ```
+![alt text](https://github.com/datjan/esp8266-homekit-temphumiditysensor/blob/main/connection-schema.png?raw=true)
 
 ## Development
 This sketch is for following development environment
